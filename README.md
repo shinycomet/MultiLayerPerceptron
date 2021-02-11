@@ -4,11 +4,6 @@
 
 A multilayer perceptron (MLP) is a class of feed-forward artificial neural network (NN). A MLP consists of, at least, three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. 
 (Wikipedia.org/wiki/Multilayer_perceptron).
-<p>
-  <img src="https://github.com/shinycomet/MultilayerPerceptron/blob/main/data/Neural.jpg" width="256" height="256">
-  <br>
-  Image from : https://brighterion.com/artificial-intelligence-101-neural-networks/
-</p>  
 
 ### Implemented *activation functions*
 In artificial neural networks, the activation function of a node defines the output of that node given an input or set of inputs.
