@@ -1,5 +1,5 @@
 # MultilayerPerceptron in C++
 
-##Status update
+## Status update
 
 work in progress
